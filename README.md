@@ -1,6 +1,6 @@
 # 均一教育平台 Open Content API 資料處理
 
-將均一教育平台（@junyiacademy）的 Open Content API 資料去除過多的分類層級後，轉換為更易懂的格式，用來產生一個 LLM 易懂的學習內容清單、單元列表。
+將均一教育平台（[@junyiacademy](https://github.com/junyiacademy)）的 Open Content API 資料去除過多的分類層級後，轉換為更易懂的格式，用來產生一個 LLM 易懂的學習內容清單、單元列表。
 
 > 這個 repository 只提中了一個暫時性的解決方案。我們依然需要有人將台灣十二年國民基本教育的課綱、課程目錄、課程內容轉化為 LLM 易懂的形式，並持續更新這些資料，以加快 AI 應用於教育的速度。若有想法，請 Email 我：`hi@neillu.com`
 
